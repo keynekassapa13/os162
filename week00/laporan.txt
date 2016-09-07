@@ -1,8 +1,1 @@
 #KeyneKassapa
-
-On this first week, we learn about UNIX and bash language.
-First, we learn how to log in to badak server.
-Second, we make 11 directories which we will be using on the next assignment as the submission slot.
-Third, we learn how to the directory to github and update the current badak inventory.
-
-Thank you.
