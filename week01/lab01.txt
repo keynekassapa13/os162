@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 keyne.kassapa StafCS 4096 Sep  7 11:28 .
+drwx--x--x  4 keyne.kassapa StafCS 4096 Sep  7 11:23 ..
+drwxr-xr-x  8 keyne.kassapa StafCS 4096 Sep  7 11:27 .git
+-rw-r--r--  1 keyne.kassapa StafCS    0 Sep  7 11:28 lab01.txt
+-rw-r--r--  1 keyne.kassapa StafCS    7 Sep  7 10:57 README.md
+drwxr-xr-x  2 keyne.kassapa StafCS 4096 Sep  7 11:19 SandBox
+drwxr-xr-x  3 keyne.kassapa StafCS 4096 Sep  7 11:23 week00
+drwxr-xr-x  2 keyne.kassapa StafCS 4096 Sep  7 11:15 week01
+drwxr-xr-x  2 keyne.kassapa StafCS 4096 Sep  7 11:16 week02
+drwxr-xr-x  2 keyne.kassapa StafCS 4096 Sep  7 11:16 week03
+drwxr-xr-x  2 keyne.kassapa StafCS 4096 Sep  7 11:16 week04
+drwxr-xr-x  2 keyne.kassapa StafCS 4096 Sep  7 11:16 week05
+drwxr-xr-x  2 keyne.kassapa StafCS 4096 Sep  7 11:16 week06
+drwxr-xr-x  2 keyne.kassapa StafCS 4096 Sep  7 11:17 week07
+drwxr-xr-x  2 keyne.kassapa StafCS 4096 Sep  7 11:17 week08
+drwxr-xr-x  2 keyne.kassapa StafCS 4096 Sep  7 11:17 week09
+drwxr-xr-x  2 keyne.kassapa StafCS 4096 Sep  7 11:17 week10
+/home/fasilkom/mahasiswa/k/keyne.kassapa/os162/week01
