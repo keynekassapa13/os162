@@ -18,3 +18,5 @@ drwxr-xr-x  2 keyne.kassapa StafCS 4096 Sep  7 11:17 week09
 drwxr-xr-x  2 keyne.kassapa StafCS 4096 Sep  7 11:17 week10
 /home/fasilkom/mahasiswa/k/keyne.kassapa/os162/week01
 Today is 07 Sep 2016 at 14:32:53
+Today is 12 Sep 2016 at 07:48:31
+Today is 12 Sep 2016 at 07:49:45
